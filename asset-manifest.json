@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rsu-stock-tracker/static/css/main.0017e98f.css",
+    "main.js": "/rsu-stock-tracker/static/js/main.9a11eb54.js",
+    "static/js/787.352546cc.chunk.js": "/rsu-stock-tracker/static/js/787.352546cc.chunk.js",
+    "static/media/stock.jpg": "/rsu-stock-tracker/static/media/stock.edc4a52a5a0050b313ba.jpg",
+    "index.html": "/rsu-stock-tracker/index.html",
+    "main.0017e98f.css.map": "/rsu-stock-tracker/static/css/main.0017e98f.css.map",
+    "main.9a11eb54.js.map": "/rsu-stock-tracker/static/js/main.9a11eb54.js.map",
+    "787.352546cc.chunk.js.map": "/rsu-stock-tracker/static/js/787.352546cc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0017e98f.css",
+    "static/js/main.9a11eb54.js"
+  ]
+}
